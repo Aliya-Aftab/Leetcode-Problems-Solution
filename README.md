@@ -16,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Array
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search
@@ -38,4 +40,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
