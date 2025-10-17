@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Array
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
 ## Union Find
 |  |
 | ------- |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
