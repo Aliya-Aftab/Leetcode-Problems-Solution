@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0820-find-eventual-safe-states) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Array
 |  |
@@ -50,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
