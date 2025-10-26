@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0433-minimum-genetic-mutation) |
+| [0744-network-delay-time](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
 | [0820-find-eventual-safe-states](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0820-find-eventual-safe-states) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0744-network-delay-time) |
 | [0820-find-eventual-safe-states](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0820-find-eventual-safe-states) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
@@ -98,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
