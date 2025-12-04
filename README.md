@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0433-minimum-genetic-mutation) |
+| [0695-max-area-of-island](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0210-course-schedule-ii) |
+| [0695-max-area-of-island](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0820-find-eventual-safe-states) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Graph
 |  |
