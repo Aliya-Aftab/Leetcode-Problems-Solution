@@ -11,7 +11,7 @@ public:
     vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {
         m = heights.size();
         n = heights[0].size();
-
+        // 2 roles-> visited, final reachability
         vector<vector<int>> pacific(m, vector<int>(n, 0));
         vector<vector<int>> atlantic(m, vector<int>(n, 0));
 
