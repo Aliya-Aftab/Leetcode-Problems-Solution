@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Array
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 | [2050-parallel-courses-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2050-parallel-courses-iii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Depth-First Search
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -100,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
@@ -145,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
