@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0127-word-ladder) |
+| [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0433-minimum-genetic-mutation) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0417-pacific-atlantic-water-flow) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Greedy
 |  |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -185,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
