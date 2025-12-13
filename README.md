@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
+| [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
 | [0994-rotting-oranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -150,11 +151,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
+| [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sliding Window
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |
