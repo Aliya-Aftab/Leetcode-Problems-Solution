@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [1162-as-far-from-land-as-possible](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1200-minimum-absolute-difference) |
 | [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 | [2050-parallel-courses-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2050-parallel-courses-iii) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
+| [1200-minimum-absolute-difference](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1200-minimum-absolute-difference) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Prefix Sum
 |  |
