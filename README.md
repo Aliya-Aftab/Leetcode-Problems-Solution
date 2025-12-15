@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0542-01-matrix) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
