@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0200-number-of-islands) |
@@ -239,5 +241,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
