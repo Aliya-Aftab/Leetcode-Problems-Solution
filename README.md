@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
+| [0849-maximize-distance-to-closest-person](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0849-maximize-distance-to-closest-person) |
 | [0908-smallest-range-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
 | [0994-rotting-oranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0994-rotting-oranges) |
