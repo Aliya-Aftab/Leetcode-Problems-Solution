@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Heap (Priority Queue)
