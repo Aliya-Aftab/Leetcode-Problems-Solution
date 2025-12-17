@@ -22,7 +22,7 @@ public:
     if(upCnt>0 && downCnt>0){
     maxi=max(maxi, upCnt+downCnt+1);
     }
-    if(upCnt == 0 && downCnt == 0){
+    if(i < n - 1 && arr[i] == arr[i+1]){
     i++;
     }
     }
