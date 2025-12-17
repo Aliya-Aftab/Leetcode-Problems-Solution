@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
+| [0845-longest-mountain-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0845-longest-mountain-in-array) |
 | [0849-maximize-distance-to-closest-person](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0849-maximize-distance-to-closest-person) |
 | [0908-smallest-range-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0845-longest-mountain-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0845-longest-mountain-in-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2050-parallel-courses-iii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0845-longest-mountain-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0845-longest-mountain-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0289-game-of-life) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
