@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0152-maximum-product-subarray) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0200-number-of-islands) |
 | [0228-summary-ranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
