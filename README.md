@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0695-max-area-of-island) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
