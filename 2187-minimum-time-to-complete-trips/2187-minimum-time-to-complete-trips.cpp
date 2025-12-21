@@ -10,6 +10,7 @@ public:
     }
     return false;
     }
+    
     long long minimumTime(vector<int>& time, int totalTrips) {
     long long lo=1;
     long long hi=(long long)*min_element(time.begin(),time.end())*totalTrips;
