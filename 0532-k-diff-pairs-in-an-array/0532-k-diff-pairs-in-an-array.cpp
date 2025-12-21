@@ -2,16 +2,29 @@ class Solution {
 public:
     int findPairs(vector<int>& nums, int k) {
     int n=nums.size();
-     set<pair<int,int>>st;
-     int cnt=0;
-    for(int i=0;i<n;i++){
-    for(int j=i+1;j<n;j++){
-    if(abs(nums[i]-nums[j])==k && st.find({min(nums[i], nums[j]), max(nums[i], nums[j])})==st.end()){
-    cnt++;
-    st.insert({min(nums[i], nums[j]), max(nums[i], nums[j])});
-    }
-    }
+    int cnt=0;
+    if(k<0){
+    return 0;
     } 
+    unordered_map<int,int>mp;
+    for(int num: nums){
+    mp[num]++;
+    }
+    if(k==0){
+    for(auto it:mp){
+    if(it.second>=2){
+    cnt++;
+    }
+    }
+    }
+    if(k>0){
+    for(auto it: mp){
+    int x=it.first;
+    if(mp.find(x+k)!=mp.end()){
+    cnt++;
+    }
+    }
+    }
     return cnt;   
     }
 };
