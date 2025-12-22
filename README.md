@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0845-longest-mountain-in-array) |
