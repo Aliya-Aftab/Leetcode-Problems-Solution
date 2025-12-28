@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2270-number-of-ways-to-split-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2270-number-of-ways-to-split-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1664-ways-to-make-a-fair-array) |
+| [2270-number-of-ways-to-split-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2270-number-of-ways-to-split-array) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Heap (Priority Queue)
 |  |
