@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1664-ways-to-make-a-fair-array) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1901-find-a-peak-element-ii) |
 | [2050-parallel-courses-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2050-parallel-courses-iii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1901-find-a-peak-element-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2187-minimum-time-to-complete-trips) |
