@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0053-maximum-subarray) |
@@ -330,5 +331,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
