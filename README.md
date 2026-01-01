@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0090-subsets-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
