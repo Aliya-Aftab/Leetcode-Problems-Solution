@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0053-maximum-subarray) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
