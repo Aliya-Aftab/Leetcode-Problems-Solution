@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0542-01-matrix) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0845-longest-mountain-in-array) |
@@ -338,4 +340,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
