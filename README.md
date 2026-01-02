@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## String
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0875-koko-eating-bananas) |
 | [0908-smallest-range-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
