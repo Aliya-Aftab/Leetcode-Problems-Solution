@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0289-game-of-life) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -360,4 +362,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0779-k-th-symbol-in-grammar) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
