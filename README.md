@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [0908-smallest-range-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0494-target-sum) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
