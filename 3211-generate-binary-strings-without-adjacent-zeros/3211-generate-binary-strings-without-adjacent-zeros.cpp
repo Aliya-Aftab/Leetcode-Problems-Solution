@@ -7,13 +7,11 @@ public:
     }
     if(last!='0'){
     temp.push_back('0');
-    last='0';
-    generate(n,temp,ans,last);
+    generate(n,temp,ans,'0');
     temp.pop_back();
     }
     temp.push_back('1');
-    last='1';
-    generate(n, temp,ans, last);
+    generate(n, temp,ans, '1');
     temp.pop_back();
     }
     vector<string> validStrings(int n) {
