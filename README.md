@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
+| [0784-letter-case-permutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0784-letter-case-permutation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0779-k-th-symbol-in-grammar) |
+| [0784-letter-case-permutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0494-target-sum) |
+| [0784-letter-case-permutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
