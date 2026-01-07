@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2121-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union Find
 |  |
 | ------- |
@@ -397,4 +398,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0992-subarrays-with-k-different-integers) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
