@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1552-magnetic-force-between-two-balls) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0845-longest-mountain-in-array) |
 | [1162-as-far-from-land-as-possible](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2050-parallel-courses-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2050-parallel-courses-iii) |
 ## Biconnected Component
