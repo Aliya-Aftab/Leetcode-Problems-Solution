@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0141-linked-list-cycle) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
