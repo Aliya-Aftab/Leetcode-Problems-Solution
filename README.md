@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0206-reverse-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Stack
@@ -426,5 +427,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
