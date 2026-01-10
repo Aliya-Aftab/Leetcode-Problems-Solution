@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0433-minimum-genetic-mutation) |
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
