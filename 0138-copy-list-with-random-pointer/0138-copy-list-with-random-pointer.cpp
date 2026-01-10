@@ -16,16 +16,6 @@ public:
 
 class Solution {
 public:
-    Node* find(Node* curr1, Node* curr2, Node* X){
-    if(X==NULL){
-    return NULL;
-    }
-    while(curr1!=X){
-    curr1=curr1->next;
-    curr2=curr2->next;
-    }
-    return curr2;
-    }
     Node* copyRandomList(Node* head) {
     Node* headCopy=new Node(0);
     Node* tailCopy=headCopy;
@@ -35,16 +25,26 @@ public:
     tailCopy=tailCopy->next;
     temp=temp->next;
     }
+    Node* dummydlt=headCopy;
     headCopy=headCopy->next; 
     tailCopy=headCopy;
     temp=head;
+    delete dummydlt;
+    unordered_map<Node*, Node*>mp;
+    while(temp){
+    mp[temp]=tailCopy;
+    temp=temp->next;
+    tailCopy=tailCopy->next;
+    }
+    // reset
+    temp=head;
     tailCopy=headCopy;
     while(temp){
-    tailCopy->random=find(head, headCopy,temp->random );
+    tailCopy->random=mp[temp->random];
     tailCopy=tailCopy->next;
     temp=temp->next;
     }
-        return headCopy;
-
+    
+    return headCopy;
     }
 };
