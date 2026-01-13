@@ -17,6 +17,10 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
+    if(!head){
+    return NULL;
+    }
+    // copying simple list w/o random pointer
     Node* headCopy=new Node(0);
     Node* tailCopy=headCopy;
     Node* temp=head;
@@ -30,21 +34,38 @@ public:
     tailCopy=headCopy;
     temp=head;
     delete dummydlt;
-    unordered_map<Node*, Node*>mp;
-    while(temp){
-    mp[temp]=tailCopy;
-    temp=temp->next;
-    tailCopy=tailCopy->next;
-    }
-    // reset
-    temp=head;
-    tailCopy=headCopy;
-    while(temp){
-    tailCopy->random=mp[temp->random];
-    tailCopy=tailCopy->next;
-    temp=temp->next;
-    }
     
+    // inserting the nodes of cloned linked list bw original linked list nodes
+    Node* curr1=head;
+    Node* curr2=headCopy;
+    Node* front1, *front2;
+    while(curr1){
+    front1=curr1->next;
+    front2=curr2->next;
+    curr1->next=curr2;
+    curr2->next=front1;
+    curr1=front1;
+    curr2=front2;
+    }
+
+    // assigning random pointer 
+    // curr1 always lying on original nodes
+    // curr2 always lying on cloned nodes
+    curr1=head;
+    while(curr1){
+    curr2=curr1->next;
+    if(curr1->random){
+    curr2->random=curr1->random->next;
+    }
+    curr1=curr2->next;
+    }
+    // separating the lists
+    curr1=head;
+    while(curr1->next){
+    front1=curr1->next;
+    curr1->next=front1->next;
+    curr1=front1;
+    }
     return headCopy;
     }
 };
