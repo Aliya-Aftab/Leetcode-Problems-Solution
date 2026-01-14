@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2270-number-of-ways-to-split-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3453-separate-squares-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3454-separate-squares-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-minimum-time-to-complete-trips](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3453-separate-squares-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Depth-First Search
@@ -453,4 +455,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
