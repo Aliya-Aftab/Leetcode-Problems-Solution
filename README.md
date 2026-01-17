@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3453-separate-squares-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3454-separate-squares-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1266-minimum-time-visiting-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Greedy
 |  |
 | ------- |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Segment Tree
 |  |
 | ------- |
