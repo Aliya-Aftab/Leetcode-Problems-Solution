@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3454-separate-squares-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
