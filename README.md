@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0289-game-of-life](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0289-game-of-life) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -483,4 +488,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3454-separate-squares-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
