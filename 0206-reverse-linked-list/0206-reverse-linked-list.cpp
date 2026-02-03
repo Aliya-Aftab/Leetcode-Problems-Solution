@@ -10,24 +10,15 @@
  */
 class Solution {
 public:
+    ListNode* rev(ListNode* curr, ListNode*prev){
+    if(!curr){
+    return prev;
+    }
+    ListNode* fut=curr->next;
+    curr->next=prev;
+    return rev(fut, curr);
+    }
     ListNode* reverseList(ListNode* head) {
-    if(!head){
-    return NULL;
-    }
-    vector<int>v;
-    ListNode* temp=head;
-    while(temp){
-    v.push_back(temp->val);
-    temp=temp->next;
-    }
-    reverse(v.begin(), v.end());
-    ListNode* newHead;
-    newHead=new ListNode (v[0]);
-    temp=newHead;
-    for(int i=1;i<v.size();i++){
-    temp->next=new ListNode(v[i]);
-    temp=temp->next;
-    }
-    return newHead;
+    return rev(head, NULL);
     }
 };
