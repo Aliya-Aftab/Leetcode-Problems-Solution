@@ -10,16 +10,24 @@
  */
 class Solution {
 public:
-    ListNode* solve(ListNode* curr, ListNode* prev){
-    // base case
-    if(!curr){
-    return prev;
-    }
-    ListNode* future=curr->next;
-    curr->next=prev;
-    return solve(future, curr);
-    }
     ListNode* reverseList(ListNode* head) {
-    return solve(head, NULL);  
+    if(!head){
+    return NULL;
+    }
+    vector<int>v;
+    ListNode* temp=head;
+    while(temp){
+    v.push_back(temp->val);
+    temp=temp->next;
+    }
+    reverse(v.begin(), v.end());
+    ListNode* newHead;
+    newHead=new ListNode (v[0]);
+    temp=newHead;
+    for(int i=1;i<v.size();i++){
+    temp->next=new ListNode(v[i]);
+    temp=temp->next;
+    }
+    return newHead;
     }
 };
