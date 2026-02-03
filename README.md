@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3637-trionic-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
 | ------- |
