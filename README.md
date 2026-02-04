@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3454-separate-squares-ii) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
 |  |
