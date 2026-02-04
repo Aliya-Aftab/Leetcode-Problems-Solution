@@ -14,28 +14,19 @@ public:
     if(!head){
     return NULL;
     }
-    vector<int>ans;
-    ans.push_back(head->val);
-    ListNode* temp=head->next;
-    while(temp){
-    if(ans.back()!=temp->val){
-    ans.push_back(temp->val);
+    ListNode* curr=head->next;
+    ListNode* prev=head;
+    while(curr){
+    if(curr->val==prev->val){
+    prev->next=curr->next;
+    delete curr;
+    curr=prev->next;
     }
-    temp=temp->next;
+    else{
+    prev=prev->next;
+    curr=curr->next;
     }
-    temp=head;
-    int idx=0;
-    while(idx<ans.size()){
-    temp->val=ans[idx];
-    idx++;
-    temp=temp->next;
-    }
-    temp=head;
-    idx=ans.size()-1;
-    while(idx--){
-    temp=temp->next;
-    }
-    temp->next=NULL;
-    return head;
+    } 
+    return head;   
     }
 };
