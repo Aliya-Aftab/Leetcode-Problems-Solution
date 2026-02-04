@@ -20,8 +20,10 @@ public:
     dummy->next=head;
     while(curr){
     if(curr->val==val){
+    ListNode* dlt=curr;
     prev->next=curr->next;
     curr=prev->next;
+    delete dlt;
     }
     else{
     prev=curr;
