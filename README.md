@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0779-k-th-symbol-in-grammar) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
