@@ -11,22 +11,15 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-    int count=0;
-    ListNode* curr=head;
-    while(curr){
-    count++;
-    curr=curr->next;
-    } 
-    count/=2;
+    ListNode* slow=head;
+    ListNode* fast=head;
+    while(fast && fast->next){
+    slow=slow->next;
+    fast=fast->next->next;
+    }
+    ListNode* curr=slow;
     ListNode* prev=NULL;
-    curr=head;
-    while(count--){
-    prev=curr;
-    curr=curr->next;
-    } 
-    prev->next=NULL;
     ListNode* future=curr->next;
-    prev=NULL;
     while(curr){
     future=curr->next;
     curr->next=prev;
