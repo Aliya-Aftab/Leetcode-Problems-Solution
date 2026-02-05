@@ -10,18 +10,7 @@
  */
 class Solution {
 public:
-
-    ListNode* reverse(ListNode* curr, ListNode* prev){
-    if(!curr){
-    return prev;
-    }
-    ListNode* future=curr->next;
-    curr->next=prev;
-    return reverse(future, curr);
-    }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-    // l1=reverse(l1, NULL);
-    // l2=reverse(l2, NULL);
     ListNode* curr1=l1;
     ListNode* curr2=l2 ;
     ListNode* newHead=new ListNode(0);
@@ -59,7 +48,6 @@ public:
     tail=tail->next;
     carry=carry/10;
     }
-    // newHead=reverse(newHead->next, NULL);
     return newHead->next;
     }
 };
