@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0066-plus-one) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0203-remove-linked-list-elements) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0061-rotate-list) |
