@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
