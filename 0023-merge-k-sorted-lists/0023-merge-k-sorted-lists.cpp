@@ -10,39 +10,40 @@
  */
 class Solution {
 public:
-
-    ListNode *merge(ListNode* head1, ListNode* head2){
-    ListNode* dummy=new ListNode(0);
-    ListNode* tail=dummy;
-    while(head1 && head2){
-    if(head1->val< head2->val){
-     tail->next=head1;
-     head1=head1->next;
-     tail=tail->next;
+    ListNode *mergeTwoList(ListNode *h1, ListNode *h2){
+    if(!h1){
+    return h2;
+    }
+    if(!h2){
+    return h1;
+    }
+    if(h1->val<=h2->val){
+    h1->next=mergeTwoList(h1->next, h2);
+    return h1;
     }
     else{
-     tail->next=head2;
-     head2=head2->next;
-     tail=tail->next;
+    h2->next=mergeTwoList(h1, h2->next);
+    return h2;
     }
+    return NULL;
     }
-    if(head1){
-    tail->next=head1;
+    ListNode *merge(int start, int end, vector<ListNode*>&lists){
+    if(start>end){
+    return NULL;
     }
-    if(head2){
-    tail->next=head2;
+    if(start==end){
+    return lists[start];
     }
-    return dummy->next;
+    int mid=start+(end-start)/2;
+    ListNode* left=merge(start, mid, lists);
+   ListNode* right=merge(mid+1, end, lists);
+    return mergeTwoList(left, right);
     }
 
+
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-    if(lists.size()==0){
+    if(lists.size()==0)
     return NULL;
-    }  
-    ListNode *head=lists[0];
-    for(int i=1;i<lists.size();i++){
-    head=merge(head, lists[i]);
-    }
-    return head;  
+    return merge(0, lists.size()-1, lists);  
     }
 };
