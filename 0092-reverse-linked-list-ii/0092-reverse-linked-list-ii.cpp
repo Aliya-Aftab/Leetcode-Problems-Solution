@@ -30,7 +30,7 @@ public:
     curr=front;
     req--;
     }
-   
+   // imp line, order matters 
     prev1->next->next=curr;
      prev1->next=prev;
     return dummy->next;
