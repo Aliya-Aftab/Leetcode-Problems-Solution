@@ -27,9 +27,9 @@ public:
     while(steps--){
     curr2=curr2->next;
     }
-    ListNode* temp=new ListNode(curr1->val);
+    int temp=curr1->val;
     curr1->val=curr2->val;
-    curr2->val=temp->val;
+    curr2->val=temp;
     return head; 
     }
 };
