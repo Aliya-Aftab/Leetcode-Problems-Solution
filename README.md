@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0542-01-matrix) |
@@ -462,11 +463,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 ## Counting
 |  |
 | ------- |
