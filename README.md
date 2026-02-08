@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [0997-find-the-town-judge](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -546,4 +548,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0023-merge-k-sorted-lists) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
