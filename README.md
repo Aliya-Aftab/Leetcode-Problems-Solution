@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0753-open-the-lock) |
 | [0784-letter-case-permutation](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0784-letter-case-permutation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
