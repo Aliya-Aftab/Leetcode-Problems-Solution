@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1664-ways-to-make-a-fair-array) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1895-largest-magic-square](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1895-largest-magic-square) |
 | [1901-find-a-peak-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1901-find-a-peak-element-ii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sliding Window
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Counting
 |  |
 | ------- |
