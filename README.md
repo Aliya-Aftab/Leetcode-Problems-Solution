@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1162-as-far-from-land-as-possible](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1162-as-far-from-land-as-possible) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1200-minimum-absolute-difference) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0962-maximum-width-ramp](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0962-maximum-width-ramp) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
 | [0962-maximum-width-ramp](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0962-maximum-width-ramp) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Counting
 |  |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
