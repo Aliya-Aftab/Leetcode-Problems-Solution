@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0910-smallest-range-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0962-maximum-width-ramp](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0962-maximum-width-ramp) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0997-find-the-town-judge) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0845-longest-mountain-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
+| [0962-maximum-width-ramp](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0962-maximum-width-ramp) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bit Manipulation
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0962-maximum-width-ramp](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0962-maximum-width-ramp) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
+| [0962-maximum-width-ramp](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0962-maximum-width-ramp) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Counting
 |  |
