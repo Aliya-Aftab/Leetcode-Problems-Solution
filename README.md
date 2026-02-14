@@ -491,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1021-remove-outermost-parentheses) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Counting
 |  |
@@ -589,4 +591,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
