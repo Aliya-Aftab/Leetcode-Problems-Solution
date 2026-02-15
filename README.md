@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0542-01-matrix) |
+| [0622-design-circular-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0695-max-area-of-island) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0445-add-two-numbers-ii) |
+| [0622-design-circular-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -599,9 +601,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
