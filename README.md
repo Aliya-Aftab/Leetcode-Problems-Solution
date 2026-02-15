@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1901-find-a-peak-element-ii) |
 | [2050-parallel-courses-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2050-parallel-courses-iii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0735-asteroid-collision) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
@@ -611,4 +613,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0622-design-circular-queue) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
