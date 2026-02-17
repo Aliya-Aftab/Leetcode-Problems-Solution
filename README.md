@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0216-combination-sum-iii) |
 | [0228-summary-ranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0289-game-of-life) |
 | [0349-intersection-of-two-arrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0349-intersection-of-two-arrays) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0992-subarrays-with-k-different-integers) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0239-sliding-window-maximum) |
 | [0744-network-delay-time](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -618,6 +621,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0622-design-circular-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2073-time-needed-to-buy-tickets) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
