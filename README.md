@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1631-path-with-minimum-effort](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1664-ways-to-make-a-fair-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1664-ways-to-make-a-fair-array) |
+| [1670-design-front-middle-back-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1670-design-front-middle-back-queue) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1895-largest-magic-square](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1895-largest-magic-square) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1019-next-greater-node-in-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1670-design-front-middle-back-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1670-design-front-middle-back-queue) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
@@ -612,10 +615,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
+| [1670-design-front-middle-back-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0901-online-stock-span) |
+| [1670-design-front-middle-back-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
@@ -623,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0622-design-circular-queue) |
+| [1670-design-front-middle-back-queue](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1670-design-front-middle-back-queue) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
