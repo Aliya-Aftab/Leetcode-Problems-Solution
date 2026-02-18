@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2050-parallel-courses-iii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2073-time-needed-to-buy-tickets) |
+| [2104-sum-of-subarray-ranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2104-sum-of-subarray-ranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1019-next-greater-node-in-linked-list) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/1673-find-the-most-competitive-subsequence) |
+| [2104-sum-of-subarray-ranges](https://github.com/Aliya-Aftab/Leetcode-Problems-Solution/tree/master/2104-sum-of-subarray-ranges) |
 ## Counting
 |  |
 | ------- |
