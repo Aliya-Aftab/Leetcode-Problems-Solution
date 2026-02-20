@@ -1,29 +1,27 @@
 class Solution {
 public:
-    int countExpressions(vector<int>&nums, int n, int idx,int &currSum, int target){
-    // base case
-    if(idx==n){
-    if(currSum==target){
-    return 1;
-    }
-    else{
-    return 0;
-    }
-
-    }
-    // addition + subtraction
-    currSum+=nums[idx];
-    int add=countExpressions(nums,n,idx+1,currSum,target);
-    currSum-=nums[idx];
-    
-    currSum-=nums[idx];
-    int sub=countExpressions(nums,n,idx+1,currSum, target);  
-    currSum += nums[idx];
-    return add+sub;
-    }
     int findTargetSumWays(vector<int>& nums, int target) {
     int n=nums.size();
-    int currSum=0;
-    return countExpressions(nums,n, 0,currSum,target);
+    int sum=0;
+    for(int num: nums){
+    sum+=num;
+    }
+    int reqSum=(sum+target)/2;
+    if(abs(target)>sum|| (sum+target)%2==1){
+    return 0;
+    }
+    vector<vector<int>>dp(n+1, vector<int>(sum+1,0));
+    dp[0][0]=1;
+    for(int i=1;i<=n;i++){
+    for(int j=0;j<=reqSum;j++){
+    if(nums[i-1]<=j){
+    dp[i][j]=dp[i-1][j-nums[i-1]]+dp[i-1][j];
+    }
+    else{
+    dp[i][j]=dp[i-1][j];
+    }
+    }
+    } 
+    return dp[n][reqSum];    
     }
 };
