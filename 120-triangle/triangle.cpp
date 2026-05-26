@@ -1,19 +1,17 @@
 class Solution {
 public:
-    int n;
-    int solve(vector<vector<int>>& triangle, int row, int col, vector<vector<int>>&dp){
-        if(row == n-1){
-            return triangle[row][col];
-        }
-        if(dp[row][col]!=INT_MAX){
-            return dp[row][col];
-        }
-        int minSum=triangle[row][col]+min(solve(triangle, row+1, col, dp), solve(triangle, row+1, col+1, dp));
-        return dp[row][col] = minSum;
-    }
     int minimumTotal(vector<vector<int>>& triangle) {
-        n=triangle.size();
-        vector<vector<int>>dp(n, vector<int>(n, INT_MAX));
-        return solve(triangle, 0, 0, dp);
+        int n = triangle.size();
+        vector<vector<int>>t=triangle;
+
+        for(int row=n-2; row>=0; row--){
+            for(int col=0; col<=row; col++){
+                t[row][col]=t[row][col]+ min(t[row+1][col], t[row+1][col+1]);
+            }
+        }
+        return t[0][0];
     }
 };
+/*
+dp[i][j] = min path sum from triangle[i][j] to bottom.
+*/
