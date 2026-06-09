@@ -11,55 +11,42 @@
  */
 class Solution {
 public:
-    bool isParent(TreeNode* root, int x, int y){
-        if(!root){
-            return false;
-        }
-        if(root->left && root->right){
-            if(root->left->val==x && root->right->val==y){
-                return true;
-            }
-            if(root->left->val==y && root->right->val==x){
-                return true;
-            }
-        }
-        return isParent(root->left, x, y) || isParent(root->right, x, y);
-    }
-
     bool isCousins(TreeNode* root, int x, int y) {
-        queue<TreeNode*>q;
-        q.push(root);
-        int level=0;
-        int l1=-1, l2=-1;
+        if (!root) return false;
 
-        while(!q.empty()){
-            int n=q.size();
-            while(n--){
-                TreeNode* temp=q.front();
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while (!q.empty()) {
+            int n = q.size();
+            bool foundX = false;
+            bool foundY = false;
+
+            while(n--) {
+                TreeNode* temp = q.front();
                 q.pop();
-                if(temp->val==x){
-                    l1=level;
+
+                if (temp->val == x) foundX = true;
+                if (temp->val == y) foundY = true;
+
+                if (temp->left && temp->right) {
+                    if ((temp->left->val == x && temp->right->val == y) ||
+                        (temp->left->val == y && temp->right->val == x)) {
+                        return false;
+                    }
                 }
-                if(temp->val==y){
-                    l2=level;
-                }
-                if(temp->left){
-                    q.push(temp->left);
-                }
-                if(temp->right){
-                    q.push(temp->right);
-                }
+
+                if (temp->left) q.push(temp->left);
+                if (temp->right) q.push(temp->right);
             }
-            // x and y are on different levels
-            if(l1!=l2){
-                return false;
-            }
-            // x and y are found on same level, stopping bfs
-            if(l1!=-1 ){
-                break;
-            }
-            level++;
+
+            if (foundX && foundY) return true;
+            if (foundX || foundY) return false;
         }
-        return !isParent(root, x, y);
+        return false;
     }
 };
+
+/*
+single traversal code -> 
+*/
