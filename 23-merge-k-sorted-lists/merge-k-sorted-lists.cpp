@@ -15,6 +15,7 @@ public:
             return a->val > b->val; 
         }
     };
+    
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         if(lists.size() == 0){
             return NULL;
