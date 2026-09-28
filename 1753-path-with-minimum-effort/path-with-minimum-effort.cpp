@@ -20,6 +20,9 @@ public:
              int r = pq.top().second.first;
              int c = pq.top().second.second;
              pq.pop();
+             if(r == m-1 && c == n-1){
+                return diff;
+             }
              for(int i = 0; i < 4; i++){
                 int nr = r + row[i];
                 int nc = c + col[i];
