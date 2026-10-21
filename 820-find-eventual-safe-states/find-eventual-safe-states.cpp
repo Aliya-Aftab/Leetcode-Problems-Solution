@@ -24,7 +24,9 @@ public:
         vector<int>path(n, 0);
         vector<int>safe(n, 0);
         for(int i = 0; i < n; i++){
-            dfs(i, graph, visited, path, safe);
+            if(!visited[i]){
+                dfs(i, graph, visited, path, safe);
+            }
         }
         vector<int>ans;
         for(int i = 0; i < n; i++){
@@ -37,7 +39,7 @@ public:
 };
 
 /*
-1. can be solved using the concept of cycle detection in an undirected 
+1. can be solved using the concept of cycle detection in an directed 
 graph as well as Kahn algorithm.
 2.nodes which are part of a cycle or node which are leading to a cycle
 can never be terminated into a termianl node.
