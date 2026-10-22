@@ -12,18 +12,18 @@ public:
         
         priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>>pq;
         vector<int>dist(n+1, 1e9);
-        pq.push({k, 0});
+        pq.push({0, k});
         dist[k] = 0;
         while(!pq.empty()){
-            int node = pq.top().first;
-            int t = pq.top().second;
+            int node = pq.top().second;
+            int t = pq.top().first;
             pq.pop();
             for(auto &it: adj[node]){
                 int adjNode = it.first;
                 int timeToAdj = it.second;
                 if(dist[adjNode] > t + timeToAdj){
                     dist[adjNode] = t + timeToAdj;
-                    pq.push({adjNode, dist[adjNode]});
+                    pq.push({dist[adjNode], adjNode});
                 }
             }
         }
