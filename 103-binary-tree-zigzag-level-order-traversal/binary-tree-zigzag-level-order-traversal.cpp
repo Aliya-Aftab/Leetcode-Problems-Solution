@@ -13,37 +13,45 @@ class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         vector<vector<int>>ans;
+        // base case
         if(!root){
             return ans;
         }
-        queue<TreeNode*>q;
-        q.push(root);
-        int count = 0;
-        while(!q.empty()){
-           int size = q.size();
-           int total = size; 
-           vector<int>temp(size);
-           int i = 0;
-           while(size--){
-            TreeNode* node = q.front();
-            q.pop();
-            
-            if(count % 2 == 0){
-                temp[i] = node->val;
+
+        stack<TreeNode*>s1;
+        stack<TreeNode*>s2;
+        s1.push(root);
+
+        while(!s1.empty() || !s2.empty()){
+            vector<int>temp;
+            if(!s1.empty()){
+                while(!s1.empty()){
+                    TreeNode* node = s1.top();
+                    s1.pop();
+                    temp.push_back(node->val);
+                    if(node->left){
+                        s2.push(node->left);
+                    }
+                    if(node->right){
+                        s2.push(node->right);
+                    }
+                }
+                ans.push_back(temp);
             }
             else{
-                temp[total - 1 - i] = node->val;
+                while(!s2.empty()){
+                    TreeNode* node = s2.top();
+                    s2.pop();
+                    temp.push_back(node->val);
+                    if(node->right){
+                        s1.push(node->right);
+                    }
+                    if(node->left){
+                        s1.push(node->left);
+                    }
+                }
+                ans.push_back(temp);
             }
-            i++;
-            if(node->left){
-                q.push(node->left);
-            }
-            if(node->right){
-                q.push(node->right);
-            }
-           }
-           ans.push_back(temp);
-           count++;
         }
         return ans;
     }
